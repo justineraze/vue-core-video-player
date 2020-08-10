@@ -47,6 +47,7 @@ export default {
     title: String,
     cover: String,
     logo: String,
+    muted: Boolean,
     controls: {
       type: [String, Boolean],
       default: true
